@@ -10,6 +10,13 @@
   margin: 0 auto;
 }
 
+h2 a img{
+  width:30px;
+  height: 30px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
 ul li {
   cursor: pointer;
   position: relative;

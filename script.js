@@ -1,6 +1,6 @@
 const TODOS = [
   { id: 1653274273413, title: "my work 1" },
-  { id: 1653274273414, title: "my work 2", selected: true },
+  { id: 1653274273414, title: "my work 2" },
   { id: 1653274273415, title: "my work 3" },
   { id: 1653274273416, title: "my work 4" },
   { id: 1653274273417, title: "my work 5" },
